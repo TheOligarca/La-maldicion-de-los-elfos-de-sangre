@@ -1,0 +1,22 @@
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+*.vcxproj
+*.opensdf
+.vs/
+
+
+cat > .gitignore << EOL
+Binaries/
+Build/
+Intermediate/
+Saved/
+DerivedDataCache/
+*.sln
+*.vcxproj
+*.opensdf
+.vs/
+.DS_Store
